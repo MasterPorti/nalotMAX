@@ -1,0 +1,124 @@
+{
+    "results":[
+    {
+    "id": "001AABB",
+    "live": true,
+    "name": "Rebeka Masarova (ESP) vs. Maria Sakkari (GRE)",
+    "imagen": "RebekaMasovaESP.jpeg",
+    "company": "Tennis Channel",
+    "time": 0
+    },
+    {
+    "id": "002BBCCA",
+    "live": true,
+    "name": "San Diego Padres vs. San Francisco Giants desde Ciudad de México",
+    "imagen": "SandiegoPadresVSSan.jpeg",
+    "company": "ESPN",
+    "time": 0
+    },
+    {
+    "id": "003CCDDB",
+    "live": true,
+    "name": "Puebla FC vs. Club Tijuana",
+    "imagen": "PueblaFCvsClub.jpeg",
+    "company": "Fox Sports",
+    "time": 0
+    },
+    {
+    "id": "004DDEEA",
+    "live": true,
+    "name": "Toronto Maple Leafs vs. Tampa Bay Lightning",
+    "imagen": "TorontoMapleLeafs.jpeg",
+    "company": "NBC Sports",
+    "time": 0
+    },
+    {
+    "id": "005EEFFB",
+    "live": false,
+    "name": "Atlético de San Luis vs. Atlas",
+    "imagen": "AtleticoDeSanLuis.jpeg",
+    "company": "ESPN Deportes",
+    "time": 1
+    },
+    {
+    "id": "006FFGGA",
+    "live": false,
+    "name": "New Jersey Devils vs. New York Rangers (First Round Game 6)",
+    "imagen": "NewJerseyDevils.jpeg",
+    "company": "MSG Networks",
+    "time": 1
+    },
+    {
+    "id": "007GGHHB",
+    "live": false,
+    "name": "Boca Juniors vs. Racing Club",
+    "imagen": "BocaJuniors.jpeg",
+    "company": "Fox Sports",
+    "time": 2
+    },
+    {
+    "id": "008HHIIA",
+    "live": false,
+    "name": "Denver Nuggets vs. Phoenix Suns (Juego #1)",
+    "imagen": "DenverNuggets.jpeg",
+    "company": "TNT",
+    "time": 3
+    },
+    {
+    "id": "009IIJJB",
+    "live": false,
+    "name": "SportsCenter",
+    "imagen": "SportsCenter.jpeg",
+    "company": "ESPN",
+    "time": 4
+    },
+    {
+    "id": "010JJHHA",
+    "live": false,
+    "name": "Edmonton Oilers vs. Los Angeles Kings",
+    "imagen": "EdmontonOilers.jpeg",
+    "company": "Sportsnet",
+    "time": 5
+    },
+    {
+    "id": "011KKLLB",
+    "live": false,
+    "name": "SportsCenter",
+    "imagen": "SportsCenter.jpeg",
+    "company": "ESPN",
+    "time": 8
+    },
+    {
+    "id": "012LLMMA",
+    "live": false,
+    "name": "Fútbol Picante",
+    "imagen": "FutbolPicante.jpeg",
+    "company": "ESPN Deportes",
+    "time": 13
+    },
+    {
+    "id": "013MMNNA",
+    "live": false,
+    "name": "SportsCenter",
+    "imagen": "SportsCenter.jpeg",
+    "company": "ESPN",
+    "time": 14
+    },
+    {
+    "id": "014NNOOB",
+    "live": false,
+    "name": "Karen Khachanov x Roberto Bautista Agut (ESP) - En español",
+    "imagen": "KatenKhachanovXRoberto.jpeg",
+    "company": "Tennis Channel",
+    "time": 15
+    },
+    {
+    "id": "015OOPPA",
+    "live": false,
+    "name": "MotoGP - Gran Premio MotoGP™ Guru by Gryfyn de España",
+    "imagen": "MotoGP-GranPremio.jpeg",
+    "company": "MotoGP",
+    "time": 16
+    }
+    ]
+    }

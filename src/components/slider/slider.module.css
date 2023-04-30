@@ -1,0 +1,37 @@
+.imagenSlider{
+    animation: sliderAnimation 1s ease-in-out ;
+
+}
+
+@keyframes sliderAnimation {
+    from { filter: opacity(0); }
+    to { filter: opacity(1);}
+}
+
+
+.sliderPosition0{
+    transition: all .5s ease;
+    transform: translateX(5vw);
+}
+
+.sliderPosition1{
+    transition: all .5s ease;
+    transform: translateX(-80vw);
+}
+
+
+.sliderPosition2{
+    transition: all .5s ease;
+    transform: translateX(-165vw);
+}
+
+.sliderPosition3{
+    transition: all .5s ease;
+    transform: translateX(-250vw);
+}
+
+
+.sliderPosition4{
+    transition: all .5s ease;
+    transform: translateX(-332.5vw);
+}

@@ -1,0 +1,451 @@
+
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3cgRI0hOq3dYyezSYrsfdmqxtMw.jpg",
+      "id": 114922,
+      "name": "Citadel",
+      "original_language": "en",
+      "original_name": "Citadel",
+      "overview": "What if you lost your memory? What if a spy didn’t know they were a spy? Years ago, the top agents of Citadel, Mason Kane and Nadia Sinh, had their minds wiped. But, they’re called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick, these former lovers must remember the past to save the future.",
+      "poster_path": "/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        80,
+        10759
+      ],
+      "popularity": 111.452,
+      "first_air_date": "2023-04-27",
+      "vote_average": 9.5,
+      "vote_count": 8,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8P15FsYcTwQZ4G5rRMd1TKD14Aq.jpg",
+      "id": 103768,
+      "name": "Sweet Tooth",
+      "original_language": "en",
+      "original_name": "Sweet Tooth",
+      "overview": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector.",
+      "poster_path": "/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "popularity": 192.497,
+      "first_air_date": "2021-06-04",
+      "vote_average": 7.9,
+      "vote_count": 1098,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pGtvfzfIRCsiudAWlzlGZ74co5l.jpg",
+      "id": 124800,
+      "name": "Love & Death",
+      "original_language": "en",
+      "original_name": "Love & Death",
+      "overview": "The true story of Candy and Pat Montgomery and Betty and Allan Gore – two churchgoing couples enjoying their small town Texas life… until an extramarital affair leads somebody to pick up an axe.",
+      "poster_path": "/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 100.871,
+      "first_air_date": "2023-04-27",
+      "vote_average": 8.7,
+      "vote_count": 9,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zE9jOFPFCz30cFY606KdhHQbPhI.jpg",
+      "id": 221802,
+      "name": "The Nurse",
+      "original_language": "da",
+      "original_name": "Sygeplejersken",
+      "overview": "Pernille Kurzmann Larsen, a fresh-faced nurse at a hospital, begins to question the attention-seeking tendencies of her colleague, Christina Aistrup Hansen. As Pernille delves deeper into her suspicions, she starts to believe that Christina's behavior may be linked to a series of patient deaths.",
+      "poster_path": "/zxh9kjto6w8GMIEGigdLFot7pUK.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 47.541,
+      "first_air_date": "2023-04-27",
+      "vote_average": 7.9,
+      "vote_count": 9,
+      "origin_country": [
+        "DK"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg",
+      "id": 82856,
+      "name": "The Mandalorian",
+      "original_language": "en",
+      "original_name": "The Mandalorian",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "popularity": 928.686,
+      "first_air_date": "2019-11-12",
+      "vote_average": 8.481,
+      "vote_count": 8904,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oSXHFbQN7QPE3WYlGm3rdNB3Qju.jpg",
+      "id": 218194,
+      "name": "Saint X",
+      "original_language": "en",
+      "original_name": "Saint X",
+      "overview": "A young woman's mysterious death during an idyllic Caribbean vacation creates a traumatic ripple effect that eventually pulls her surviving sister into a dangerous pursuit of the truth.",
+      "poster_path": "/wViKoQ7njLujruFWBMY5NUzj7EV.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "popularity": 57.814,
+      "first_air_date": "2023-04-26",
+      "vote_average": 7.6,
+      "vote_count": 5,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+      "id": 85937,
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "original_language": "ja",
+      "original_name": "鬼滅の刃",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 269.182,
+      "first_air_date": "2019-04-06",
+      "vote_average": 8.699,
+      "vote_count": 5098,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euzOZte7gh2MvocsMbQlv0IoKFI.jpg",
+      "id": 203857,
+      "name": "The Diplomat",
+      "original_language": "en",
+      "original_name": "The Diplomat",
+      "overview": "In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.",
+      "poster_path": "/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 118.42,
+      "first_air_date": "2023-04-20",
+      "vote_average": 7.511,
+      "vote_count": 45,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nA2sIDVxE6kcCPND0l5leTdodI5.jpg",
+      "id": 197548,
+      "name": "Mrs. Davis",
+      "original_language": "en",
+      "original_name": "Mrs. Davis",
+      "overview": "Sister Simone partners with her ex-boyfriend on a globe-spanning journey to destroy Mrs. Davis, a powerful artificial intelligence.",
+      "poster_path": "/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        35,
+        18,
+        10765
+      ],
+      "popularity": 95.347,
+      "first_air_date": "2023-04-20",
+      "vote_average": 7.2,
+      "vote_count": 15,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+      "id": 124364,
+      "name": "From",
+      "original_language": "en",
+      "original_name": "From",
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "poster_path": "/uV65yaFkw6B4KHXAsBYui0KvJq.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        9648,
+        18,
+        10765
+      ],
+      "popularity": 286.118,
+      "first_air_date": "2022-02-20",
+      "vote_average": 8.248,
+      "vote_count": 290,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qA37cB9PdiOrCmECXjQXy0ip23x.jpg",
+      "id": 225008,
+      "name": "The Long Season",
+      "original_language": "zh",
+      "original_name": "漫长的季节",
+      "overview": "",
+      "poster_path": "/rM5Y0ziZbmpkqW1db2HK3xrzTXj.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        10751,
+        80
+      ],
+      "popularity": 10.543,
+      "first_air_date": "2023-04-22",
+      "vote_average": 10.0,
+      "vote_count": 3,
+      "origin_country": [
+        "CN"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tTpNW3zAYl37iKSheYSLgXBled1.jpg",
+      "id": 130987,
+      "name": "Dead Ringers",
+      "original_language": "en",
+      "original_name": "Dead Ringers",
+      "overview": "Elliot and Beverly Mantle are twins who share everything: drugs, lovers, and an unapologetic desire to do whatever it takes — including pushing the boundaries on medical ethics — in an effort to challenge antiquated practices and bring women’s healthcare to the forefront.",
+      "poster_path": "/3GZB7pnyAw6QV053TwxiqvRyOw3.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "popularity": 89.942,
+      "first_air_date": "2023-04-20",
+      "vote_average": 7.5,
+      "vote_count": 23,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zvdnqNYYjW1NvULZbToh50pdts4.jpg",
+      "id": 87049,
+      "name": "Firefly Lane",
+      "original_language": "en",
+      "original_name": "Firefly Lane",
+      "overview": "For decades, childhood best friends Kate and Tully have weathered life's storms together -- until a betrayal threatens to break them apart for good.",
+      "poster_path": "/vJdhhyideVVOw9nT9kaD4yKD53z.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 89.617,
+      "first_air_date": "2021-02-03",
+      "vote_average": 7.6,
+      "vote_count": 139,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iluTG3UT2f0guDZR6GNAvYUKZvq.jpg",
+      "id": 220372,
+      "name": "Sam: A Saxon",
+      "original_language": "de",
+      "original_name": "Sam - Ein Sachse",
+      "overview": "Based on the true story of Sam Meffire’s rise and fall in East Germany, this miniseries follows Sam’s desperate search for a place he can call home, as he fights for recognition and justice. Sam goes from being the first Black cop in the GDR to media celebrity, and finally a criminal in the wild years following German reunification.",
+      "poster_path": "/zUnor1KuGGtQfa4bAKGympgy7fK.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 53.043,
+      "first_air_date": "2023-04-26",
+      "vote_average": 4.0,
+      "vote_count": 3,
+      "origin_country": [
+        "DE"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vrGSNjQQK4F3IuKNdLdd7Px4w7u.jpg",
+      "id": 214999,
+      "name": "The Good Bad Mother",
+      "original_language": "ko",
+      "original_name": "나쁜 엄마",
+      "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child — forcing him and his mother to embark on a journey to heal their relationship.",
+      "poster_path": "/o8h8BJz85BNI6g6ty47jbpEDAiK.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 53.533,
+      "first_air_date": "2023-04-26",
+      "vote_average": 6.0,
+      "vote_count": 2,
+      "origin_country": [
+        "KR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wImNeqxKsqmJ5OBw8j3I37GNFN3.jpg",
+      "id": 97546,
+      "name": "Ted Lasso",
+      "original_language": "en",
+      "original_name": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he’s hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "poster_path": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 289.859,
+      "first_air_date": "2020-08-14",
+      "vote_average": 8.491,
+      "vote_count": 973,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "id": 60735,
+      "name": "The Flash",
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "poster_path": "/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "popularity": 523.763,
+      "first_air_date": "2014-10-07",
+      "vote_average": 7.797,
+      "vote_count": 10367,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pzw13NVDnsPqH62yOHuyxJFAmrS.jpg",
+      "id": 218961,
+      "name": "Drops of God",
+      "original_language": "fr",
+      "original_name": "Les Gouttes de Dieu",
+      "overview": "While the world of wine mourns the death of Alexandre Léger, his estranged daughter, Camille, learns his extraordinary collection is now hers. But before she can claim her inheritance, Camille must best Alexandre’s protégé, Issei, in a test of their senses.",
+      "poster_path": "/9VxIqKXkgVWTZ1y5c3sKQQi6NvO.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 85.084,
+      "first_air_date": "2023-04-21",
+      "vote_average": 7.8,
+      "vote_count": 5,
+      "origin_country": [
+        "FR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xpdw7ogSIMH1Wmnbx4irH3wimFP.jpg",
+      "id": 42009,
+      "name": "Black Mirror",
+      "original_language": "en",
+      "original_name": "Black Mirror",
+      "overview": "A contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world. \n\nOver the last ten years, technology has transformed almost every aspect of our lives before we've had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone - a black mirror of our 21st Century existence.",
+      "poster_path": "/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "popularity": 241.369,
+      "first_air_date": "2011-12-04",
+      "vote_average": 8.318,
+      "vote_count": 3952,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+      "id": 100088,
+      "name": "The Last of Us",
+      "original_language": "en",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "poster_path": "/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 636.128,
+      "first_air_date": "2023-01-15",
+      "vote_average": 8.747,
+      "vote_count": 3284,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}
